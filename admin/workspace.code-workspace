@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\template\\dist\\assets"
+		},
+		{
+			"path": "..\\..\\template\\src\\assets"
+		},
+		{
+			"path": "..\\..\\template\\src\\layouts"
+		}
+	],
+	"settings": {}
+}
